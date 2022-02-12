@@ -1,4 +1,8 @@
 # Task Management
+```
+Manage task with Kanban board
+Share with 
+```
 
 ## Installation
 
