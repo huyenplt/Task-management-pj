@@ -1,5 +1,6 @@
 # Task Management
 ```
+Simple project with Laravel and SB Admin
 Manage task with Kanban board
 Share with your teams
 ```
