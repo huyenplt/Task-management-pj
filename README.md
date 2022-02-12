@@ -45,7 +45,7 @@ npm run dev
 php artisan serve
 ```
 
-## To storage image
+To storage image
 ```bash
 # add this line to .env file
 FILESYSTEM_DRIVER=public
